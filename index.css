@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: 'Rubik', sans-serif;
-    background-color: #EEF0F4;
+    background-color: #eed4e2;
     color: #432000;
     user-select: none;
 }
@@ -15,13 +15,13 @@ html, body {
 }
 
 img {
-    width: 300px;
+    width: 270px;
     margin: 0 auto;
 }
 
 input {
     color: #432000;
-    background-color: #DCE1EB;
+    background-color: #fdfdfd;
     border: 0;
     padding: 15px;
     border-radius: 8px;
@@ -43,7 +43,7 @@ button {
 }
 
 button:hover {
-    background-color: #432000;
+    background-color: #8a4709;
     cursor: pointer;
 }
 
